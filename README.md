@@ -15,7 +15,7 @@ Feel free to check other variants of this dApp:
 Following code is NOT production ready. It may contain bugs and be not gas efficient. It was created as learning project. Feel free to use it as an example of creating ERC20 token (fungible token) and dApp associated with it.
 
 
-## Tooling: 
+## Tooling
 **Frontend**: TypeScript / VueJS / Vuex / Vuetify / Web3
 
 **Smart contract**: Solidity / Truffle / Ganache / OpenZeppelin / Chai / Mocha
