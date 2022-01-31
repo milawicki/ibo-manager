@@ -1,13 +1,14 @@
 # IBO - Initial Bottle Offering
 
-*insert screenshot here*
+![Screenshot](https://user-images.githubusercontent.com/30719996/151843514-a35323f1-5c50-4916-9046-e912939dc3dd.png)
 
-Another variant of IBO (check description of IBO for better understanding of this app). This version supports multiple tokens as well as creating new one from app level. It could be used by one producer to emits tokens for multiple labels or as a base to create marketplace for alcohol producers.
+
+Another variant of IBO (check [description of IBO](https://github.com/milawicki/ibo)  for better understanding of this app). This version supports multiple tokens as well as creating new one from app level. It could be used by one producer to emits tokens for multiple labels or as a base to create marketplace for alcohol producers.
 
 Feel free to check other variants of this dApp:
 
-* IBO - base version of this app, handling only one token at a time
-* IBO Auction - NFT version of this contract with auctioning mechanism
+* [IBO](https://github.com/milawicki/ibo) - base version of this app, handling only one token at a time
+* [IBO Auction](https://github.com/milawicki/ibo-nft-auction) - NFT version of this contract with auctioning mechanism
 
 ## Disclaimer
 
@@ -21,10 +22,10 @@ Following code is NOT production ready. It may contain bugs and be not gas effic
 
 ## Instalation
 
-1. Clone the repository
+1. Clone this repository
 
 ```
-git clone X
+git clone https://github.com/milawicki/ibo-manager
 ```
 
 2. Install Truffle
