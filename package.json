@@ -1,0 +1,9 @@
+{
+  "name": "ibo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}
